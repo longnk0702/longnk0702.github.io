@@ -37,6 +37,6 @@ I am always curious, eager to learn, and happy to connect with researchers and e
 
 <div class="home-cta d-flex flex-wrap mt-3">
   <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="{{ '/projects/' | relative_url }}">View Projects</a>
-  <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="{{ '/assets/pdf/CV_Khac_Long_Nguyen_v06.pdf' | relative_url }}">Download CV</a>
+  <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="{{ '/assets/pdf/KhacLongNguyen_CV.pdf' | relative_url }}">Download CV</a>
   <a class="btn btn-sm btn-outline-primary mb-2" href="mailto:nk.long723@gmail.com">Contact Me</a>
 </div>
